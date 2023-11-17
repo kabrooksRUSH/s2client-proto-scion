@@ -54,6 +54,9 @@ enum Race {
   Zerg = 2;
   Protoss = 3;
   Random = 4;
+  Xayid = 5;
+  Genetron = 6;
+  Keiron = 7;
 }
 
 
